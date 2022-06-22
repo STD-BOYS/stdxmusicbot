@@ -4,13 +4,13 @@ import aiohttp
 from os import getenv
 from dotenv import load_dotenv
 
-# 𝐈𝐧𝐭𝐞𝐫𝐧𝐚𝐥 𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞𝐬 (@𝐁𝐢𝐤𝐚𝐬𝐡𝐇𝐚𝐥𝐝𝐞𝐫 @𝐀𝐝𝐢𝐭𝐲𝐚𝐇𝐚𝐥𝐝𝐞𝐫)
+# 𝐈𝐧𝐭𝐞𝐫𝐧𝐚𝐥 𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞𝐬 (@Sunny_meena @STD_DEEPANSHU)
 load_dotenv()
 que = {}
 admins = {}
 aiohttpsession = aiohttp.ClientSession()
 
-# 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐝 𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞𝐬 //𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 @𝐁𝐢𝐤𝐚𝐬𝐡𝐇𝐚𝐥𝐝𝐞𝐫 @𝐀𝐝𝐢𝐭𝐲𝐚𝐇𝐚𝐥𝐝𝐞𝐫
+# 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐝 𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞𝐬 //𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 @STD_DEEPANSHU @Sunny_meena
 API_HASH = getenv("API_HASH", "XXXXX")
 API_ID = int(getenv("API_ID", "XXXXX"))
 ASSISTANT_NAME = getenv("ASSISTANT_NAME", "XXXXX")
@@ -28,6 +28,6 @@ SUDO_USERS = list(map(int, getenv("SUDO_USERS", "1439222689").split()))
 SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/bgt_chat")
 UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "https://t.me/BikashGedgetsTech")
 
-# 𝐃𝐨 𝐍𝐨𝐭 𝐂𝐡𝐚𝐧𝐠𝐞 𝐓𝐡𝐢𝐬 𝐋𝐢𝐧𝐞𝐬 // 𝐈𝐠𝐧𝐨𝐫𝐞 𝐓𝐡𝐢𝐬 (𝐁𝐢𝐤𝐚𝐬𝐡 𝐇𝐚𝐥𝐝𝐞𝐫) 
+# 𝐃𝐨 𝐍𝐨𝐭 𝐂𝐡𝐚𝐧𝐠𝐞 𝐓𝐡𝐢𝐬 𝐋𝐢𝐧𝐞𝐬 // 𝐈𝐠𝐧𝐨𝐫𝐞 𝐓𝐡𝐢𝐬 (STD DEEPANSHU ) 
 COMMAND_PREFIXES = list(getenv("COMMAND_PREFIXES", "/ ! .").split())
-PROFILE_CHANNEL = getenv("PROFILE_CHANNEL", "https://t.me/BikashDP")
+PROFILE_CHANNEL = getenv("PROFILE_CHANNEL", "https://t.me/STD_Vs_LIFELINE")
