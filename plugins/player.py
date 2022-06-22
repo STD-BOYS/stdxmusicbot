@@ -1,4 +1,4 @@
-# Bikash Aditya // @BikashHalder
+# STD DEEPANSHU // @STD_DEEPANSHU
 import os
 import aiofiles
 import aiohttp
@@ -101,7 +101,7 @@ async def generate_cover(requested_by, title, views, duration, thumbnail):
     draw.text((190, 630), f"Views: {views}", (255, 255, 255), font=font)
     draw.text(
         (190, 670),
-        f"Powered By: Bikash & Aditya Halder (@BikashHalder @AdityaHalder)",
+        f"Powered By: SUNNY & STD_DEEPANSHU (@Sunny_meena @STD_DEEPANSHU)",
         (255, 255, 255),
         font=font,
     )
@@ -176,7 +176,7 @@ async def play(_, message: Message):
 
         file_name = get_file_name(audio)
         title = file_name
-        thumb_name = "https://te.legra.ph/file/99d0261f0aa5512ad6753.jpg"
+        thumb_name = "https://te.legra.ph/file/c6d14750bba067ffa8ee4.jpg"
         thumbnail = thumb_name
         duration = round(audio.duration / 60)
         views = "Locally added"
@@ -199,8 +199,8 @@ async def play(_, message: Message):
                ],
                [
                         InlineKeyboardButton(
-                            text="😎 🇧𝐆𝐓 🌺",
-                            url=f"https://t.me/Bgt_Chat")
+                            text="😎 𝐒𝐓𝐃 Vs 𝐁𝐄𝐓𝐔 🌺",
+                            url=f"https://t.me/STD_Vs_LIFELINE")
                    
                 ]
             ]
@@ -252,8 +252,8 @@ async def play(_, message: Message):
                ],
                [
                         InlineKeyboardButton(
-                            text="😎 🇧𝐆𝐓 🇨𝐇𝐀𝐍𝐍𝐄𝐋 🌺",
-                            url=f"https://t.me/BikashGedgetsTech")
+                            text="😎 𝐒𝐓𝐃  🇨𝐇𝐀𝐍𝐍𝐄𝐋 🌺",
+                            url=f"https://t.me/STD_UPDATE")
                    
                 ]
             ]
@@ -261,7 +261,7 @@ async def play(_, message: Message):
 
         except Exception as e:
             title = "NaN"
-            thumb_name = "https://te.legra.ph/file/99d0261f0aa5512ad6753.jpg"
+            thumb_name = "https://te.legra.ph/file/c6d14750bba067ffa8ee4.jpg"
             duration = "NaN"
             views = "NaN"
             keyboard = InlineKeyboardMarkup(
@@ -283,7 +283,7 @@ async def play(_, message: Message):
                [
                         InlineKeyboardButton(
                             text="😎 𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 🌺",
-                            url=f"https://t.me/kaalxd")
+                            url=f"https://t.me/lifelinesss")
                    
                 ]
             ]
@@ -390,7 +390,7 @@ async def play(_, message: Message):
         await message.reply_photo(
             photo="final.png",
             reply_markup=keyboard,
-            caption="**💥 𝐁𝐠𝐭 𝐌𝐮𝐬𝐢𝐜 🌺 𝐑𝐨𝐛𝐨𝐭 🎸 𝐍𝐨𝐰 💞\n🔊 𝐏𝐥𝐚𝐲𝐢𝐧𝐠 😍 𝐎𝐏 🥀 ...**".format(),
+            caption="**💥 𝐒𝐓𝐃 𝐌𝐮𝐬𝐢𝐜 🌺 𝐑𝐨𝐛𝐨𝐭 🎸 𝐍𝐨𝐰 💞\n🔊 𝐏𝐥𝐚𝐲𝐢𝐧𝐠 😍 𝐎𝐏 🥀 ...**".format(),
            )
 
     os.remove("final.png")
@@ -429,7 +429,7 @@ async def skip(_, message: Message):
     for x in clientbot.pytgcalls.active_calls:
         ACTV_CALLS.append(int(x.chat_id))
     if int(chat_id) not in ACTV_CALLS:
-        await message.reply_text("**💥 𝐁𝐠𝐭 𝐑𝐨𝐛𝐨𝐭 💞 𝐍𝐨𝐭𝐡𝐢𝐧𝐠 🔇\n🚫 𝐏𝐥𝐚𝐲𝐢𝐧𝐠 🌷 ...**")
+        await message.reply_text("**💥 𝐒𝐓𝐃 𝐑𝐨𝐛𝐨𝐭 💞 𝐍𝐨𝐭𝐡𝐢𝐧𝐠 🔇\n🚫 𝐏𝐥𝐚𝐲𝐢𝐧𝐠 🌷 ...**")
     else:
         queues.task_done(chat_id)
         
