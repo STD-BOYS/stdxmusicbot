@@ -1,13 +1,13 @@
 ### Best Smart Voice Chat Music Robot For Telegram Groups ...
 
 
-<p align="center"><a href="https://t.me/BikashHalder"><img src="https://te.legra.ph/file/99d0261f0aa5512ad6753.jpg"></a></p>
+<p align="center"><a href="https://t.me/STD_DEEPANSHU"><img src="https://te.legra.ph/file/c6d14750bba067ffa8ee4.jpg"></a></p>
 
 ## Telegram 🏪
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/BGT_Chat)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/best_friends_chat_group)
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Bikashgedgetstech)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/STD_Vs_LIFELINE)
 
 ## YouTube 📺
 
@@ -17,12 +17,12 @@
 
 ### Deploy On OkTeto
 
-[![Deploy+On+Okteto](https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto)](https://cloud.okteto.com/deploy?repository=https://github.com/IAMBIKASHHALDER/bgtxmusicbot)
+[![Deploy+On+Okteto](https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto)](https://cloud.okteto.com/deploy?repository=https://github.com/STD-BOYS/stdxmusicbot)
 
 
 ### Deploy To Heroku
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IambikashHalder/bgtxmusicbot)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/STD-BOYS/stdxmusicbot)
 
 
 
@@ -35,4 +35,4 @@
 #### Copy Pasters You Can Copy This But Must Give Credits ...
 
 ### Owner Of This Repository
-[![Bikash Halder](https://te.legra.ph/file/840fed0100164af249bb8.jpg)](https://t.me/BikashHalder)
+[![STD DEEPANSHU](https://te.legra.ph/file/751fadbb92507f8d86fc1.jpg)](https://t.me/STD_DEEPANSHU)
